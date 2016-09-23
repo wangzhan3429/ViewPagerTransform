@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\MyCodes\CircleViewPager-master\ViewTest\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="D:\MyCodes\CircleViewPager-master\ViewTest\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-ded8c8eb4dc6fb7443d61ef9b3b45743090fbf13.jar" />
+    </item>
+    <item
+        jar="D:\adt-bundle-windows-x86-20130917.467161976\adt-bundle-windows-x86-20130917\newSdk\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\MyCodes\CircleViewPager-master\ViewTest\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-bc82d09d529c75414102e82625a03c1434fae5a5.jar" />
+    </item>
+
+</items>
